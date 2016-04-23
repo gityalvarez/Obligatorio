@@ -1,0 +1,18 @@
+{
+	"_type": "UMLAttribute",
+	"_id": "AAAAAAFURPQ4mUJ9R/Q=",
+	"_parent": {
+		"$ref": "AAAAAAFURPP7J0HVEqk="
+	},
+	"name": "Sueldo",
+	"visibility": "public",
+	"isStatic": false,
+	"isLeaf": false,
+	"type": "int",
+	"isReadOnly": false,
+	"isOrdered": false,
+	"isUnique": false,
+	"isDerived": false,
+	"aggregation": "none",
+	"isID": false
+}

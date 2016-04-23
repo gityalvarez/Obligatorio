@@ -1,0 +1,51 @@
+{
+	"_type": "UMLClass",
+	"_id": "AAAAAAFUP1qTZkQVfAc=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+	},
+	"name": "Estudiante",
+	"visibility": "public",
+	"attributes": [
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP1tH10RWk8E=",
+			"_parent": {
+				"$ref": "AAAAAAFUP1qTZkQVfAc="
+			},
+			"name": "Teléfono",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "int",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUROE6jDMbdDM=",
+			"_parent": {
+				"$ref": "AAAAAAFUP1qTZkQVfAc="
+			},
+			"name": "Creditos",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "int",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": true,
+			"aggregation": "none",
+			"isID": false
+		}
+	],
+	"isAbstract": false,
+	"isFinalSpecialization": false,
+	"isLeaf": false,
+	"isActive": false
+}

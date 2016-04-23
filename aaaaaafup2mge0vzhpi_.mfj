@@ -1,0 +1,35 @@
+{
+	"_type": "UMLClass",
+	"_id": "AAAAAAFUP2mgE0VZhpI=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+	},
+	"name": "se anotó",
+	"visibility": "public",
+	"attributes": [
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFURLnhZysA4fg=",
+			"_parent": {
+				"$ref": "AAAAAAFUP2mgE0VZhpI="
+			},
+			"name": "Fecha",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": {
+				"$ref": "AAAAAAFUP3XJrUiji+g="
+			},
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		}
+	],
+	"isAbstract": false,
+	"isFinalSpecialization": false,
+	"isLeaf": false,
+	"isActive": false
+}

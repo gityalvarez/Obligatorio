@@ -1,0 +1,48 @@
+{
+	"_type": "UMLAssociation",
+	"_id": "AAAAAAFUROdWQjWp6CI=",
+	"_parent": {
+		"$ref": "AAAAAAFUP0mMykH4b0E="
+	},
+	"name": "requiere",
+	"end1": {
+		"_type": "UMLAssociationEnd",
+		"_id": "AAAAAAFUROdWQjWqg7g=",
+		"_parent": {
+			"$ref": "AAAAAAFUROdWQjWp6CI="
+		},
+		"reference": {
+			"$ref": "AAAAAAFUP0mMykH4b0E="
+		},
+		"visibility": "public",
+		"navigable": true,
+		"aggregation": "none",
+		"multiplicity": "*",
+		"isReadOnly": false,
+		"isOrdered": false,
+		"isUnique": false,
+		"isDerived": false,
+		"isID": false
+	},
+	"end2": {
+		"_type": "UMLAssociationEnd",
+		"_id": "AAAAAAFUROdWQzWrMXE=",
+		"_parent": {
+			"$ref": "AAAAAAFUROdWQjWp6CI="
+		},
+		"reference": {
+			"$ref": "AAAAAAFURLV8RCae3vY="
+		},
+		"visibility": "public",
+		"navigable": true,
+		"aggregation": "none",
+		"multiplicity": "1..*",
+		"isReadOnly": false,
+		"isOrdered": false,
+		"isUnique": false,
+		"isDerived": false,
+		"isID": false
+	},
+	"visibility": "public",
+	"isDerived": false
+}

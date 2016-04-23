@@ -1,0 +1,20 @@
+{
+	"_type": "UMLAttribute",
+	"_id": "AAAAAAFURLxQfSzxlxQ=",
+	"_parent": {
+		"$ref": "AAAAAAFURLuOQCue6xE="
+	},
+	"name": "Fecha",
+	"visibility": "public",
+	"isStatic": false,
+	"isLeaf": false,
+	"type": {
+		"$ref": "AAAAAAFUP3XJrUiji+g="
+	},
+	"isReadOnly": false,
+	"isOrdered": false,
+	"isUnique": false,
+	"isDerived": false,
+	"aggregation": "none",
+	"isID": false
+}

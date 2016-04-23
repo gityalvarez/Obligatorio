@@ -1,0 +1,59 @@
+{
+	"_type": "UMLAssociation",
+	"_id": "AAAAAAFURJTSiR+CsdE=",
+	"_parent": {
+		"$ref": "AAAAAAFUP06nOkLfJ8g="
+	},
+	"name": "encargado",
+	"tags": [
+		{
+			"_type": "Tag",
+			"_id": "AAAAAAFURJVnZR//j9U=",
+			"_parent": {
+				"$ref": "AAAAAAFURJTSiR+CsdE="
+			},
+			"name": "Tag1",
+			"kind": "string",
+			"checked": false,
+			"number": 0
+		}
+	],
+	"end1": {
+		"_type": "UMLAssociationEnd",
+		"_id": "AAAAAAFURJTSiR+DWM4=",
+		"_parent": {
+			"$ref": "AAAAAAFURJTSiR+CsdE="
+		},
+		"reference": {
+			"$ref": "AAAAAAFUP06nOkLfJ8g="
+		},
+		"visibility": "public",
+		"navigable": true,
+		"aggregation": "none",
+		"isReadOnly": false,
+		"isOrdered": false,
+		"isUnique": false,
+		"isDerived": false,
+		"isID": false
+	},
+	"end2": {
+		"_type": "UMLAssociationEnd",
+		"_id": "AAAAAAFURJTSiR+E+aI=",
+		"_parent": {
+			"$ref": "AAAAAAFURJTSiR+CsdE="
+		},
+		"reference": {
+			"$ref": "AAAAAAFUP1psWkPaKDk="
+		},
+		"visibility": "public",
+		"navigable": true,
+		"aggregation": "none",
+		"isReadOnly": false,
+		"isOrdered": false,
+		"isUnique": false,
+		"isDerived": false,
+		"isID": false
+	},
+	"visibility": "public",
+	"isDerived": false
+}

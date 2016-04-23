@@ -1,0 +1,141 @@
+{
+	"_type": "UMLClass",
+	"_id": "AAAAAAFUP0mMykH4b0E=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+	},
+	"name": "Oferta Laboral",
+	"visibility": "public",
+	"attributes": [
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP379+UsfSEE=",
+			"_parent": {
+				"$ref": "AAAAAAFUP0mMykH4b0E="
+			},
+			"name": "NroExpediente",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "int",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": true
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP38NU0s9X2M=",
+			"_parent": {
+				"$ref": "AAAAAAFUP0mMykH4b0E="
+			},
+			"name": "Título",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "String",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP38kDktbu9E=",
+			"_parent": {
+				"$ref": "AAAAAAFUP0mMykH4b0E="
+			},
+			"name": "Descripción",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "String",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP3809Et5L/U=",
+			"_parent": {
+				"$ref": "AAAAAAFUP0mMykH4b0E="
+			},
+			"name": "CantHoras",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "int",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP39I2kuX9ms=",
+			"_parent": {
+				"$ref": "AAAAAAFUP0mMykH4b0E="
+			},
+			"name": "Cant Puestos",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "int",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP4BEfEv8qSc=",
+			"_parent": {
+				"$ref": "AAAAAAFUP0mMykH4b0E="
+			},
+			"name": "SalarioMín",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "int",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP4BVbEwaPxM=",
+			"_parent": {
+				"$ref": "AAAAAAFUP0mMykH4b0E="
+			},
+			"name": "SalarioMáx",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "int",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		}
+	],
+	"isAbstract": false,
+	"isFinalSpecialization": false,
+	"isLeaf": false,
+	"isActive": false
+}

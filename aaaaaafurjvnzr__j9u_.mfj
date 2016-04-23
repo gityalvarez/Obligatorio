@@ -1,0 +1,11 @@
+{
+	"_type": "Tag",
+	"_id": "AAAAAAFURJVnZR//j9U=",
+	"_parent": {
+		"$ref": "AAAAAAFURJTSiR+CsdE="
+	},
+	"name": "Tag1",
+	"kind": "string",
+	"checked": false,
+	"number": 0
+}

@@ -1,0 +1,39 @@
+{
+	"_type": "UMLGeneralizationView",
+	"_id": "AAAAAAFUP06neUMKEns=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBtyKM79qY="
+	},
+	"model": {
+		"$ref": "AAAAAAFUP06neUMIxRE="
+	},
+	"visible": true,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#efa890",
+	"fontColor": "#000000",
+	"font": "Arial;13;0",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"head": {
+		"$ref": "AAAAAAFUP0yAx0KOE8c="
+	},
+	"tail": {
+		"$ref": "AAAAAAFUP06nO0LhtRA="
+	},
+	"lineStyle": 1,
+	"points": "356:319;356:261",
+	"stereotypeDisplay": "label",
+	"showVisibility": true,
+	"showProperty": true,
+	"nameLabel": {
+		"$ref": "AAAAAAFUP06neUMLRPc="
+	},
+	"stereotypeLabel": {
+		"$ref": "AAAAAAFUP06neUMMp74="
+	},
+	"propertyLabel": {
+		"$ref": "AAAAAAFUP06neUMNVDg="
+	}
+}

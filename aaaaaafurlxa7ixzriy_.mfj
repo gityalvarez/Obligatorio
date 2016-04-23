@@ -1,0 +1,18 @@
+{
+	"_type": "UMLAttribute",
+	"_id": "AAAAAAFURLxA7ixzriY=",
+	"_parent": {
+		"$ref": "AAAAAAFURLuOQCue6xE="
+	},
+	"name": "Nota",
+	"visibility": "public",
+	"isStatic": false,
+	"isLeaf": false,
+	"type": "int",
+	"isReadOnly": false,
+	"isOrdered": false,
+	"isUnique": false,
+	"isDerived": false,
+	"aggregation": "none",
+	"isID": false
+}

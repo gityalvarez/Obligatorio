@@ -1,0 +1,18 @@
+{
+	"_type": "UMLAttribute",
+	"_id": "AAAAAAFURLdblCjJ7pE=",
+	"_parent": {
+		"$ref": "AAAAAAFURLV8RCae3vY="
+	},
+	"name": "Codigo",
+	"visibility": "public",
+	"isStatic": false,
+	"isLeaf": false,
+	"type": "int",
+	"isReadOnly": false,
+	"isOrdered": false,
+	"isUnique": false,
+	"isDerived": false,
+	"aggregation": "none",
+	"isID": true
+}

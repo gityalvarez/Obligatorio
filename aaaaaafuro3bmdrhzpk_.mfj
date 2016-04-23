@@ -1,0 +1,13 @@
+{
+	"_type": "UMLClass",
+	"_id": "AAAAAAFURO3BMDrHzPk=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+	},
+	"name": "Entrevista",
+	"visibility": "public",
+	"isAbstract": false,
+	"isFinalSpecialization": false,
+	"isLeaf": false,
+	"isActive": false
+}

@@ -1,0 +1,18 @@
+{
+	"_type": "UMLAttribute",
+	"_id": "AAAAAAFUROE6jDMbdDM=",
+	"_parent": {
+		"$ref": "AAAAAAFUP1qTZkQVfAc="
+	},
+	"name": "Creditos",
+	"visibility": "public",
+	"isStatic": false,
+	"isLeaf": false,
+	"type": "int",
+	"isReadOnly": false,
+	"isOrdered": false,
+	"isUnique": false,
+	"isDerived": true,
+	"aggregation": "none",
+	"isID": false
+}

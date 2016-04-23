@@ -1,0 +1,35 @@
+{
+	"_type": "UMLClass",
+	"_id": "AAAAAAFURPGPTD4CW6g=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+	},
+	"name": "Entrevista.Fecha",
+	"visibility": "public",
+	"attributes": [
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFURPJ0/0A7Xlc=",
+			"_parent": {
+				"$ref": "AAAAAAFURPGPTD4CW6g="
+			},
+			"name": "Fecha",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": {
+				"$ref": "AAAAAAFUP3XJrUiji+g="
+			},
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		}
+	],
+	"isAbstract": false,
+	"isFinalSpecialization": false,
+	"isLeaf": false,
+	"isActive": false
+}

@@ -1,0 +1,25 @@
+{
+	"_type": "LabelView",
+	"_id": "AAAAAAFUP0jLUkHRMpA=",
+	"_parent": {
+		"$ref": "AAAAAAFUP0jLUkHPWZU="
+	},
+	"visible": true,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#efa890",
+	"fontColor": "#000000",
+	"font": "Arial;13;1",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"left": 277,
+	"top": 15,
+	"width": 159,
+	"height": 13,
+	"autoResize": false,
+	"underline": false,
+	"text": "Empresa",
+	"horizontalAlignment": 2,
+	"verticalAlignment": 5
+}

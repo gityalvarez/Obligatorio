@@ -1,0 +1,53 @@
+{
+	"_type": "UMLClass",
+	"_id": "AAAAAAFURPP7J0HVEqk=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+	},
+	"name": "Cargo",
+	"visibility": "public",
+	"attributes": [
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFURPQ4mUJ9R/Q=",
+			"_parent": {
+				"$ref": "AAAAAAFURPP7J0HVEqk="
+			},
+			"name": "Sueldo",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "int",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFURPRzV0LtzGE=",
+			"_parent": {
+				"$ref": "AAAAAAFURPP7J0HVEqk="
+			},
+			"name": "Fecha",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": {
+				"$ref": "AAAAAAFUP3XJrUiji+g="
+			},
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		}
+	],
+	"isAbstract": false,
+	"isFinalSpecialization": false,
+	"isLeaf": false,
+	"isActive": false
+}

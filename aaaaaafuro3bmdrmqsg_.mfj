@@ -1,0 +1,25 @@
+{
+	"_type": "LabelView",
+	"_id": "AAAAAAFURO3BMDrMQSg=",
+	"_parent": {
+		"$ref": "AAAAAAFURO3BMDrK7Pg="
+	},
+	"visible": true,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#8fafc0",
+	"fontColor": "#000000",
+	"font": "Arial;13;1",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"left": 637,
+	"top": 759,
+	"width": 95,
+	"height": 13,
+	"autoResize": false,
+	"underline": false,
+	"text": "Entrevista",
+	"horizontalAlignment": 2,
+	"verticalAlignment": 5
+}

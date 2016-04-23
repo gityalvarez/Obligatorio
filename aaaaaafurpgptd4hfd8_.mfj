@@ -1,0 +1,25 @@
+{
+	"_type": "LabelView",
+	"_id": "AAAAAAFURPGPTD4HFD8=",
+	"_parent": {
+		"$ref": "AAAAAAFURPGPTD4Frxk="
+	},
+	"visible": true,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#8fafc0",
+	"fontColor": "#000000",
+	"font": "Arial;13;1",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"left": 517,
+	"top": 863,
+	"width": 104.04443359375,
+	"height": 13,
+	"autoResize": false,
+	"underline": false,
+	"text": "Entrevista.Fecha",
+	"horizontalAlignment": 2,
+	"verticalAlignment": 5
+}

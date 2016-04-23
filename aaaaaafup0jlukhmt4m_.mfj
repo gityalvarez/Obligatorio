@@ -1,0 +1,51 @@
+{
+	"_type": "UMLClass",
+	"_id": "AAAAAAFUP0jLUkHMT4M=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+	},
+	"name": "Empresa",
+	"visibility": "public",
+	"attributes": [
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP0pwbEJ7EKc=",
+			"_parent": {
+				"$ref": "AAAAAAFUP0jLUkHMT4M="
+			},
+			"name": "Nombre",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "String",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP0rRoEKCTWc=",
+			"_parent": {
+				"$ref": "AAAAAAFUP0jLUkHMT4M="
+			},
+			"name": "R.U.T.",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "int",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": true
+		}
+	],
+	"isAbstract": false,
+	"isFinalSpecialization": false,
+	"isLeaf": false,
+	"isActive": false
+}

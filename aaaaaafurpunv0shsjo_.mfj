@@ -1,0 +1,27 @@
+{
+	"_type": "UMLAssociationClassLinkView",
+	"_id": "AAAAAAFURPUNv0SHSJo=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBtyKM79qY="
+	},
+	"model": {
+		"$ref": "AAAAAAFURPUNvkSGPJE="
+	},
+	"visible": true,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#8fafc0",
+	"fontColor": "#000000",
+	"font": "Arial;13;0",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"head": {
+		"$ref": "AAAAAAFUP4F0e0y1BQ8="
+	},
+	"tail": {
+		"$ref": "AAAAAAFURPP7J0HXUjI="
+	},
+	"lineStyle": 1,
+	"points": "803:887;800:656;592:655"
+}

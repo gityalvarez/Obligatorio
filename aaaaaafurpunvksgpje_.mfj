@@ -1,0 +1,14 @@
+{
+	"_type": "UMLAssociationClassLink",
+	"_id": "AAAAAAFURPUNvkSGPJE=",
+	"_parent": {
+		"$ref": "AAAAAAFURPP7J0HVEqk="
+	},
+	"visibility": "public",
+	"classSide": {
+		"$ref": "AAAAAAFURPP7J0HVEqk="
+	},
+	"associationSide": {
+		"$ref": "AAAAAAFUP4F0e0yxwhs="
+	}
+}

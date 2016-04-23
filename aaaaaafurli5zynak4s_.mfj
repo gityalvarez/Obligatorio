@@ -1,0 +1,48 @@
+{
+	"_type": "UMLAssociation",
+	"_id": "AAAAAAFURLi5ZynAk4s=",
+	"_parent": {
+		"$ref": "AAAAAAFUP1qTZkQVfAc="
+	},
+	"name": "salvó",
+	"end1": {
+		"_type": "UMLAssociationEnd",
+		"_id": "AAAAAAFURLi5ZynBkNc=",
+		"_parent": {
+			"$ref": "AAAAAAFURLi5ZynAk4s="
+		},
+		"reference": {
+			"$ref": "AAAAAAFUP1qTZkQVfAc="
+		},
+		"visibility": "public",
+		"navigable": true,
+		"aggregation": "none",
+		"multiplicity": "*",
+		"isReadOnly": false,
+		"isOrdered": false,
+		"isUnique": false,
+		"isDerived": false,
+		"isID": false
+	},
+	"end2": {
+		"_type": "UMLAssociationEnd",
+		"_id": "AAAAAAFURLi5ZynCq5o=",
+		"_parent": {
+			"$ref": "AAAAAAFURLi5ZynAk4s="
+		},
+		"reference": {
+			"$ref": "AAAAAAFURLV8RCae3vY="
+		},
+		"visibility": "public",
+		"navigable": true,
+		"aggregation": "none",
+		"multiplicity": "*",
+		"isReadOnly": false,
+		"isOrdered": false,
+		"isUnique": false,
+		"isDerived": false,
+		"isID": false
+	},
+	"visibility": "public",
+	"isDerived": false
+}

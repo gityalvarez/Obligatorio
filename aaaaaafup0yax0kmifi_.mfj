@@ -1,0 +1,69 @@
+{
+	"_type": "UMLClass",
+	"_id": "AAAAAAFUP0yAx0KMiFI=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+	},
+	"name": "Sucursal",
+	"visibility": "public",
+	"attributes": [
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP00UKELK4k8=",
+			"_parent": {
+				"$ref": "AAAAAAFUP0yAx0KMiFI="
+			},
+			"name": "NombreSuc",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "String",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP02j3ELRov4=",
+			"_parent": {
+				"$ref": "AAAAAAFUP0yAx0KMiFI="
+			},
+			"name": "Teléfono",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "int",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP04CuULYlNQ=",
+			"_parent": {
+				"$ref": "AAAAAAFUP0yAx0KMiFI="
+			},
+			"name": "Dirección",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "String",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		}
+	],
+	"isAbstract": false,
+	"isFinalSpecialization": false,
+	"isLeaf": false,
+	"isActive": false
+}

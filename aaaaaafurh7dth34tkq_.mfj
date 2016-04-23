@@ -1,0 +1,46 @@
+{
+	"_type": "UMLAssociation",
+	"_id": "AAAAAAFURH7DTh34tKQ=",
+	"_parent": {
+		"$ref": "AAAAAAFUP06nOkLfJ8g="
+	},
+	"name": "encargado",
+	"end1": {
+		"_type": "UMLAssociationEnd",
+		"_id": "AAAAAAFURH7DTx357tI=",
+		"_parent": {
+			"$ref": "AAAAAAFURH7DTh34tKQ="
+		},
+		"reference": {
+			"$ref": "AAAAAAFUP06nOkLfJ8g="
+		},
+		"visibility": "public",
+		"navigable": true,
+		"aggregation": "none",
+		"isReadOnly": false,
+		"isOrdered": false,
+		"isUnique": false,
+		"isDerived": false,
+		"isID": false
+	},
+	"end2": {
+		"_type": "UMLAssociationEnd",
+		"_id": "AAAAAAFURH7DTx367e8=",
+		"_parent": {
+			"$ref": "AAAAAAFURH7DTh34tKQ="
+		},
+		"reference": {
+			"$ref": "AAAAAAFUP1psWkPaKDk="
+		},
+		"visibility": "public",
+		"navigable": true,
+		"aggregation": "composite",
+		"isReadOnly": false,
+		"isOrdered": false,
+		"isUnique": false,
+		"isDerived": false,
+		"isID": false
+	},
+	"visibility": "public",
+	"isDerived": false
+}
