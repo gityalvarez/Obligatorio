@@ -1,0 +1,18 @@
+{
+	"_type": "UMLAttribute",
+	"_id": "AAAAAAFUP1d6eEOer4k=",
+	"_parent": {
+		"$ref": "AAAAAAFUP1cNv0Ni4VI="
+	},
+	"name": "Fecha.Nac",
+	"visibility": "public",
+	"isStatic": false,
+	"isLeaf": false,
+	"type": "Date",
+	"isReadOnly": false,
+	"isOrdered": false,
+	"isUnique": false,
+	"isDerived": false,
+	"aggregation": "none",
+	"isID": false
+}

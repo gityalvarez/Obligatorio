@@ -1,0 +1,18 @@
+{
+	"_type": "UMLAttribute",
+	"_id": "AAAAAAFUP1unV0RdVM8=",
+	"_parent": {
+		"$ref": "AAAAAAFUP1qTZkQVfAc="
+	},
+	"name": "Carrera",
+	"visibility": "public",
+	"isStatic": false,
+	"isLeaf": false,
+	"type": "DtCarrera",
+	"isReadOnly": false,
+	"isOrdered": false,
+	"isUnique": false,
+	"isDerived": false,
+	"aggregation": "none",
+	"isID": false
+}

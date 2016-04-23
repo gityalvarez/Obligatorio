@@ -1,0 +1,14 @@
+{
+	"_type": "UMLClass",
+	"_id": "AAAAAAFUP4RrVlSGRBI=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+	},
+	"name": "DtAsignatura",
+	"stereotype": "DataType",
+	"visibility": "public",
+	"isAbstract": false,
+	"isFinalSpecialization": false,
+	"isLeaf": false,
+	"isActive": false
+}

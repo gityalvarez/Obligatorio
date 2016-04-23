@@ -1,0 +1,24 @@
+{
+	"_type": "UMLOperationCompartmentView",
+	"_id": "AAAAAAFUP2mgFkVi0n4=",
+	"_parent": {
+		"$ref": "AAAAAAFUP2mgFEVbKfE="
+	},
+	"model": {
+		"$ref": "AAAAAAFUP2mgE0VZhpI="
+	},
+	"visible": true,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#ffffff",
+	"fontColor": "#000000",
+	"font": "Arial;13;0",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"left": 736,
+	"top": 779,
+	"width": 121,
+	"height": 10,
+	"autoResize": false
+}
