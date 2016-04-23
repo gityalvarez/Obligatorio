@@ -1,0 +1,18 @@
+{
+	"_type": "UMLAttribute",
+	"_id": "AAAAAAFUP00UKELK4k8=",
+	"_parent": {
+		"$ref": "AAAAAAFUP0yAx0KMiFI="
+	},
+	"name": "NombreSuc",
+	"visibility": "public",
+	"isStatic": false,
+	"isLeaf": false,
+	"type": "String",
+	"isReadOnly": false,
+	"isOrdered": false,
+	"isUnique": false,
+	"isDerived": false,
+	"aggregation": "none",
+	"isID": false
+}

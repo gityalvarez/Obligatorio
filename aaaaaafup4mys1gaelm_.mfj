@@ -1,0 +1,51 @@
+{
+	"_type": "UMLClass",
+	"_id": "AAAAAAFUP4MYS1GAElM=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+	},
+	"name": "DtCarrera",
+	"stereotype": "DataType",
+	"visibility": "public",
+	"attributes": [
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP4N3EVIWEzs=",
+			"_parent": {
+				"$ref": "AAAAAAFUP4MYS1GAElM="
+			},
+			"name": "Nombre",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP4OH/1JkQ/I=",
+			"_parent": {
+				"$ref": "AAAAAAFUP4MYS1GAElM="
+			},
+			"name": "Nombre2",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		}
+	],
+	"isAbstract": false,
+	"isFinalSpecialization": false,
+	"isLeaf": false,
+	"isActive": false
+}

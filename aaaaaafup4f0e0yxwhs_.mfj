@@ -1,0 +1,46 @@
+{
+	"_type": "UMLAssociation",
+	"_id": "AAAAAAFUP4F0e0yxwhs=",
+	"_parent": {
+		"$ref": "AAAAAAFUP0mMykH4b0E="
+	},
+	"name": "postula",
+	"end1": {
+		"_type": "UMLAssociationEnd",
+		"_id": "AAAAAAFUP4F0e0yyQ4M=",
+		"_parent": {
+			"$ref": "AAAAAAFUP4F0e0yxwhs="
+		},
+		"reference": {
+			"$ref": "AAAAAAFUP0mMykH4b0E="
+		},
+		"visibility": "public",
+		"navigable": true,
+		"aggregation": "none",
+		"isReadOnly": false,
+		"isOrdered": false,
+		"isUnique": false,
+		"isDerived": false,
+		"isID": false
+	},
+	"end2": {
+		"_type": "UMLAssociationEnd",
+		"_id": "AAAAAAFUP4F0e0yzH8I=",
+		"_parent": {
+			"$ref": "AAAAAAFUP4F0e0yxwhs="
+		},
+		"reference": {
+			"$ref": "AAAAAAFUP1qTZkQVfAc="
+		},
+		"visibility": "public",
+		"navigable": true,
+		"aggregation": "none",
+		"isReadOnly": false,
+		"isOrdered": false,
+		"isUnique": false,
+		"isDerived": false,
+		"isID": false
+	},
+	"visibility": "public",
+	"isDerived": false
+}

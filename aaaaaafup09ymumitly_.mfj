@@ -1,0 +1,18 @@
+{
+	"_type": "UMLAttribute",
+	"_id": "AAAAAAFUP09ymUMiTlY=",
+	"_parent": {
+		"$ref": "AAAAAAFUP06nOkLfJ8g="
+	},
+	"name": "interno",
+	"visibility": "public",
+	"isStatic": false,
+	"isLeaf": false,
+	"type": "int",
+	"isReadOnly": false,
+	"isOrdered": false,
+	"isUnique": false,
+	"isDerived": false,
+	"aggregation": "none",
+	"isID": false
+}
