@@ -1,0 +1,87 @@
+{
+	"_type": "UMLClass",
+	"_id": "AAAAAAFUP1cNv0Ni4VI=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+	},
+	"name": "Persona",
+	"visibility": "public",
+	"attributes": [
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP1cxnUOM9uc=",
+			"_parent": {
+				"$ref": "AAAAAAFUP1cNv0Ni4VI="
+			},
+			"name": "Cedula",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "int",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP1dAekOSFeg=",
+			"_parent": {
+				"$ref": "AAAAAAFUP1cNv0Ni4VI="
+			},
+			"name": "Nombre",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "String",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP1dOr0OYvHg=",
+			"_parent": {
+				"$ref": "AAAAAAFUP1cNv0Ni4VI="
+			},
+			"name": "Apellido",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "String",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP1d6eEOer4k=",
+			"_parent": {
+				"$ref": "AAAAAAFUP1cNv0Ni4VI="
+			},
+			"name": "Fecha.Nac",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "Date",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		}
+	],
+	"isAbstract": true,
+	"isFinalSpecialization": false,
+	"isLeaf": false,
+	"isActive": false
+}

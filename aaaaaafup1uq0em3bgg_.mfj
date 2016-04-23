@@ -1,0 +1,18 @@
+{
+	"_type": "UMLAttribute",
+	"_id": "AAAAAAFUP1Uq0EM3bGg=",
+	"_parent": {
+		"$ref": "AAAAAAFUP0dyAUGhAqU="
+	},
+	"name": "Teléfono",
+	"visibility": "public",
+	"isStatic": false,
+	"isLeaf": false,
+	"type": "",
+	"isReadOnly": false,
+	"isOrdered": false,
+	"isUnique": false,
+	"isDerived": false,
+	"aggregation": "none",
+	"isID": false
+}
