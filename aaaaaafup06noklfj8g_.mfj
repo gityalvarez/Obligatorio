@@ -1,0 +1,51 @@
+{
+	"_type": "UMLClass",
+	"_id": "AAAAAAFUP06nOkLfJ8g=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+	},
+	"name": "Seccion",
+	"visibility": "public",
+	"attributes": [
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP09jIUMcbtY=",
+			"_parent": {
+				"$ref": "AAAAAAFUP06nOkLfJ8g="
+			},
+			"name": "Nombre",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "String",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAFUP09ymUMiTlY=",
+			"_parent": {
+				"$ref": "AAAAAAFUP06nOkLfJ8g="
+			},
+			"name": "interno",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"type": "int",
+			"isReadOnly": false,
+			"isOrdered": false,
+			"isUnique": false,
+			"isDerived": false,
+			"aggregation": "none",
+			"isID": false
+		}
+	],
+	"isAbstract": false,
+	"isFinalSpecialization": false,
+	"isLeaf": false,
+	"isActive": false
+}

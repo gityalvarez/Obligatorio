@@ -1,0 +1,25 @@
+{
+	"_type": "LabelView",
+	"_id": "AAAAAAFUP1qTaEQa5yA=",
+	"_parent": {
+		"$ref": "AAAAAAFUP1qTZ0QYyBI="
+	},
+	"visible": true,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#ffffff",
+	"fontColor": "#000000",
+	"font": "Arial;13;1",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"left": 717,
+	"top": 511,
+	"width": 159,
+	"height": 13,
+	"autoResize": false,
+	"underline": false,
+	"text": "Estudiante",
+	"horizontalAlignment": 2,
+	"verticalAlignment": 5
+}
